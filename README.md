@@ -8,11 +8,11 @@
 `Для того чтобы запустить проект:`
 
 Клонируйте репозиторий и выполните следующие команды
-*`python3 -m venv .env`
-*`source .env/bin/activate`
-*`pip3 install -r requirements.txt`
-*`python3 manage.py runserver`
-*Далее заходим на http://localhost:8000/
+* `python3 -m venv .env`
+* `source .env/bin/activate`
+* `pip3 install -r requirements.txt`
+* `python3 manage.py runserver`
+* Далее заходим на http://localhost:8000/
 
 Проект делиться на составные части:
 1) Твиты
